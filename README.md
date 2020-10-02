@@ -1,6 +1,6 @@
 # first_appwrite_app
 
-A new Flutter application.
+A Flutter application by integrating Appwrite.
 
 ## Getting Started
 
